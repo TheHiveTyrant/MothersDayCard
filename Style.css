@@ -1,0 +1,18 @@
+#InTitle {
+    display:none;
+    padding: 10px;
+}
+
+#SubTitle {
+    display:none;
+    padding: 10px;
+}
+#SubTitleTwo, #Four, #Three {
+    display:none;
+    padding: 10px;
+}
+
+body{
+    overflow-y: hidden;
+    
+}
