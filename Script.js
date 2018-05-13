@@ -60,9 +60,9 @@ $(window).keypress(function (e) {
 
 
                             }, 1000).animate({
-                                top: "-2500px"
+                                top: "-3500px"
 
-                            }, 80000, function () {
+                            }, 100000, function () {
 
                                 six.animate({
                                     top: '0',
